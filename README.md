@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/agrajm/Governance%20101/_apis/build/status/agrajm.pipelines-java?branchName=master)](https://dev.azure.com/agrajm/Governance%20101/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
